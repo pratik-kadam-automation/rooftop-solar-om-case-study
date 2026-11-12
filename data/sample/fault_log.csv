@@ -1,0 +1,8 @@
+opened,closed,inverter,string,fault
+2025-02-10,,INV-1,S02,string fault
+2025-03-18,,INV-1,S05,string fault
+2025-04-02,,INV-1,S06,connector heating
+2025-05-05,2025-05-09,INV-2,S03,string fault
+2025-05-20,2025-05-22,INV-2,S07,string fault
+2025-06-04,,INV-2,S03,late pickup
+2025-01-12,2025-01-14,INV-3,S01,string fault

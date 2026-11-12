@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" font-family="Arial, Helvetica, sans-serif">
+<rect width="1000" height="540" fill="#ffffff"/>
+<text x="500" y="44" text-anchor="middle" font-size="24" font-weight="bold" fill="#111827">Reported plant performance against expected output</text>
+<text x="500" y="70" text-anchor="middle" font-size="15" fill="#6b7280">About 930 kW rooftop plant, percent of expected output (plane-of-array basis)</text>
+<line x1="50" y1="430" x2="960" y2="430" stroke="#e5e7eb" stroke-width="1"/>
+<text x="42" y="434" text-anchor="end" font-size="12" fill="#9ca3af">0%</text>
+<line x1="50" y1="355" x2="960" y2="355" stroke="#e5e7eb" stroke-width="1"/>
+<text x="42" y="359" text-anchor="end" font-size="12" fill="#9ca3af">25%</text>
+<line x1="50" y1="280" x2="960" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<text x="42" y="284" text-anchor="end" font-size="12" fill="#9ca3af">50%</text>
+<line x1="50" y1="205" x2="960" y2="205" stroke="#e5e7eb" stroke-width="1"/>
+<text x="42" y="209" text-anchor="end" font-size="12" fill="#9ca3af">75%</text>
+<line x1="50" y1="130" x2="960" y2="130" stroke="#e5e7eb" stroke-width="1"/>
+<text x="42" y="134" text-anchor="end" font-size="12" fill="#9ca3af">100%</text>
+<rect x="60" y="169" width="110" height="261" rx="4" fill="#2563eb"/>
+<text x="115" y="199" text-anchor="middle" font-size="19" font-weight="bold" fill="#ffffff">87%</text>
+<text x="115" y="456" text-anchor="middle" font-size="13" fill="#374151">2018</text>
+<text x="115" y="474" text-anchor="middle" font-size="13" fill="#374151">commissioned</text>
+<rect x="200" y="244" width="110" height="186" rx="4" fill="#dc2626"/>
+<text x="255" y="274" text-anchor="middle" font-size="19" font-weight="bold" fill="#ffffff">62%</text>
+<text x="255" y="456" text-anchor="middle" font-size="13" fill="#374151">2019</text>
+<text x="255" y="474" text-anchor="middle" font-size="13" fill="#374151"></text>
+<rect x="340" y="232" width="110" height="198" rx="4" fill="#dc2626"/>
+<text x="395" y="262" text-anchor="middle" font-size="19" font-weight="bold" fill="#ffffff">66%</text>
+<text x="395" y="456" text-anchor="middle" font-size="13" fill="#374151">2020</text>
+<text x="395" y="474" text-anchor="middle" font-size="13" fill="#374151">study starts</text>
+<rect x="480" y="205" width="110" height="225" rx="4" fill="#d97706"/>
+<text x="535" y="235" text-anchor="middle" font-size="19" font-weight="bold" fill="#ffffff">75%</text>
+<text x="535" y="456" text-anchor="middle" font-size="13" fill="#374151">About a year after</text>
+<text x="535" y="474" text-anchor="middle" font-size="13" fill="#374151">string triage</text>
+<rect x="620" y="175" width="110" height="255" rx="4" fill="#15803d"/>
+<rect x="620" y="163" width="110" height="12" rx="4" fill="#86efac"/>
+<text x="675" y="205" text-anchor="middle" font-size="19" font-weight="bold" fill="#ffffff">85 to 89%</text>
+<text x="675" y="456" text-anchor="middle" font-size="13" fill="#374151">After planned PM,</text>
+<text x="675" y="474" text-anchor="middle" font-size="13" fill="#374151">cooling, corrected baseline</text>
+<line x1="50" y1="145" x2="960" y2="145" stroke="#6b7280" stroke-width="2" stroke-dasharray="8,6"/>
+<text x="752" y="138" font-size="13" fill="#4b5563">Original quote: 95%</text>
+<line x1="50" y1="174" x2="960" y2="174" stroke="#16a34a" stroke-width="2" stroke-dasharray="8,6"/>
+<text x="752" y="192" font-size="13" fill="#15803d">Realistic ceiling after</text>
+<text x="752" y="208" font-size="13" fill="#15803d">azimuth loss: about 85%</text>
+<text x="500" y="508" text-anchor="middle" font-size="12" fill="#6b7280">The expected-output model was corrected during the study. Read this as a reported trend, not a like-for-like comparison.</text>
+<text x="500" y="525" text-anchor="middle" font-size="12" fill="#6b7280">Figures are from my own notes and dashboards and have not been audited.</text>
+</svg>

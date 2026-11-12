@@ -1,0 +1,10 @@
+month,activity,scope,evidence_to_keep
+Every month,String current review,Compare strings with the same orientation under steady sun,String comparison and action record
+Twice a month,Panel cleaning (adjust to measured soiling),All array zones,Cleaning log and before and after PR
+Daily,Late string pickup review,All strings from SCADA,Flagged strings and what was done
+February to March,Pre-summer check,Connectors and joints; inverter cooling and filters; terminations,Photos; service log
+April to May,Pre-monsoon check,String insulation resistance by qualified people; gland and enclosure sealing; earthing; cable condition,Insulation resistance log; photos
+June to September,Monsoon watch,Late pickup after rain; log grid outages separately from performance,Outage log; fault register
+October to November,Post-monsoon check,Retest strings that picked up late; clean off monsoon deposits; look at lower frame edges,Retest results; cleaning log
+December to January,Annual review,Azimuth and tilt check; shading survey; sensor and meter calibration; update the expected-output baseline,Baseline record with old and new values and the date
+Once a year or when needed,Thermography under load (optional),Connectors and cells; record irradiance ambient load and wind,Thermal images with conditions
